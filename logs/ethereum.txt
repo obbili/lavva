@@ -162,3 +162,4 @@
 {"error":"{\"Error_GUID\":\"1559152986319252355\",\"Error\":\"Failed all retries {GUID:1559152986319252355,error:rpc error: code = DeadlineExceeded desc = context deadline exceeded,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x5a955e8e0"}
 {"jsonrpc":"2.0","id":1,"result":"0x61ef45739"}
+{"error":"{\"Error_GUID\":\"8501631249241772663\",\"Error\":\"Failed all retries {GUID:8501631249241772663,error:No pairings available.,chain_id:ETH1}\"}"}
